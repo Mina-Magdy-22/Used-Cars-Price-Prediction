@@ -12,7 +12,7 @@ Key results:
 - Diagnostics indicate heteroscedastic residuals; consider robust losses or target transforms for final models.
 
 Dataset:
-Autos.csv — vehicle attributes (brand, model, yearOfRegistration, powerPS, kilometer, fuelType, gearbox, notRepairedDamage, price, etc.)
+Autos.csv: vehicle attributes (brand, model, yearOfRegistration, powerPS, kilometer, fuelType, gearbox, notRepairedDamage, price, etc.)
 Target: price
 
 What I did (concise):
